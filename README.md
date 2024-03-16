@@ -12,4 +12,4 @@ Other useful stuff:
 
 This game was written with SmallBASIC (https://smallbasic.github.io/). In this repository you will find the source code and all the necessary assets to play the game. Download and install SmallBASIC.  Run the file BugEscape.bas with the console version of SmallBASIC.
 
-(Coming soon) If this is to complicate for you and you only want to play this fantastic game, please visit itch.io to download executable files for Windows and Linux.
+If this is to complicate for you and you only want to play this fantastic game, please visit https://joe7m.itch.io/bug-escape to download executable files for Windows and Linux.

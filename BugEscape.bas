@@ -199,7 +199,9 @@ wend
 UnloadTextures()
 UnloadSounds()
 UnloadMusic()
+UnloadFonts()
 rl.CloseWindow()
+rl.CloseAudioDevice()
 
 
 '#############################################
@@ -1956,4 +1958,8 @@ sub UnloadMusic()
     for ii in Music.Tracks
         rl.UnloadMusicStream(ii)
     next
+end
+
+sub UnloadFonts()    
+        rl.UnloadFont(Font)
 end
